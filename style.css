@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: #1a1a2e;
+  color: #e0e0e0;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+h1 {
+  color: #e94560;
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+}
+
+h2 {
+  color: #e94560;
+  margin: 2rem 0 1rem;
+  font-size: 1.3rem;
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.3rem;
+}
+
+.charts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+@media (max-width: 900px) {
+  .charts-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.chart-col h2 {
+  margin-top: 0;
+}
+
+nav.tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #333;
+}
+
+nav.tabs a {
+  padding: 0.5rem 1rem;
+  color: #aaa;
+  text-decoration: none;
+  font-size: 0.9rem;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+nav.tabs a:hover {
+  color: #e94560;
+}
+
+nav.tabs a.active {
+  color: #e94560;
+  border-bottom-color: #e94560;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+th {
+  text-align: left;
+  color: #888;
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  padding: 0.5rem 0.5rem;
+  border-bottom: 1px solid #333;
+}
+
+td {
+  padding: 0.4rem 0.5rem;
+  border-bottom: 1px solid #222;
+  vertical-align: top;
+}
+
+td:first-child {
+  color: #888;
+  font-weight: 600;
+  width: 2rem;
+}
+
+tr.rank-1 td {
+  background: #222244;
+}
+
+.chart-header-cover {
+width: 100%;
+aspect-ratio: 1;
+object-fit: cover;
+border-radius: 6px;
+margin-bottom: 0.75rem;
+}
+
+.play-count {
+	color: #888;
+	font-size: 0.9rem;
+}
+
+td.year {
+	color: #666;
+	font-size: 0.85rem;
+	width: 3.5rem;
+}
+
+td a {
+	color: #e0e0e0;
+	text-decoration: none;
+}
+
+td a:hover {
+	color: #e94560;
+	text-decoration: underline;
+}
+
+p {
+color: #aaa;
+margin-bottom: 1rem;
+font-style: italic;
+}
+
+.section-heading {
+  margin-top: 3rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+nav.time-tabs {
+  margin-bottom: 1rem;
+  font-size: 0.85rem;
+}
+
+nav.time-tabs a {
+  padding: 0.4rem 0.8rem;
+  font-size: 0.85rem;
+}
