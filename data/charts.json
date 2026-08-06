@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-06T17:03:59Z",
+  "generated_at": "2026-08-06T20:46:33Z",
   "stations": [
     {
       "channel": -1,
@@ -1194,17 +1194,6 @@
           },
           {
             "rank": 9,
-            "name": "The End",
-            "sub": "Mammoth",
-            "plays": 16,
-            "cover": "https://img.radioparadise.com/covers/l/25454.jpg",
-            "year": 2025,
-            "song_id": 58130,
-            "album_id": "25454",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 10,
             "name": "No Time For Idiots",
             "sub": "Gogol Bordello",
             "plays": 16,
@@ -1215,7 +1204,7 @@
             "created_at": "2026-05-04"
           },
           {
-            "rank": 11,
+            "rank": 10,
             "name": "Mirror Test",
             "sub": "Pigeon",
             "plays": 16,
@@ -1226,7 +1215,7 @@
             "created_at": "2026-06-14"
           },
           {
-            "rank": 12,
+            "rank": 11,
             "name": "The Curse",
             "sub": "Agnes Obel",
             "plays": 15,
@@ -1237,7 +1226,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 13,
+            "rank": 12,
             "name": "I'm Done Runnin'",
             "sub": "Samantha Fish",
             "plays": 15,
@@ -1245,6 +1234,17 @@
             "year": 2025,
             "song_id": 56235,
             "album_id": "24685",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 13,
+            "name": "The End",
+            "sub": "Mammoth",
+            "plays": 15,
+            "cover": "https://img.radioparadise.com/covers/l/25454.jpg",
+            "year": 2025,
+            "song_id": 58130,
+            "album_id": "25454",
             "created_at": "2026-05-01"
           },
           {
@@ -1271,17 +1271,6 @@
           },
           {
             "rank": 16,
-            "name": "Lips Like Sugar",
-            "sub": "Echo \u0026 the Bunnymen",
-            "plays": 14,
-            "cover": "https://img.radioparadise.com/covers/l/9030.jpg",
-            "year": 1987,
-            "song_id": 33026,
-            "album_id": "9030",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 17,
             "name": "Alone In Kyoto",
             "sub": "Air",
             "plays": 14,
@@ -1292,7 +1281,7 @@
             "created_at": "2026-05-06"
           },
           {
-            "rank": 18,
+            "rank": 17,
             "name": "Saving Grace",
             "sub": "Tom Petty",
             "plays": 14,
@@ -1303,7 +1292,7 @@
             "created_at": "2026-05-05"
           },
           {
-            "rank": 19,
+            "rank": 18,
             "name": "Let’s Make It (John Lee Hooker=Vocals)",
             "sub": "Canned Heat",
             "plays": 14,
@@ -1314,7 +1303,7 @@
             "created_at": "2026-05-09"
           },
           {
-            "rank": 20,
+            "rank": 19,
             "name": "Dig, Lazarus, Dig!",
             "sub": "Nick Cave \u0026 The Bad Seeds",
             "plays": 14,
@@ -1323,19 +1312,30 @@
             "song_id": 40402,
             "album_id": "12678",
             "created_at": "2026-05-04"
+          },
+          {
+            "rank": 20,
+            "name": "An Ocean In Between The Waves",
+            "sub": "The War on Drugs",
+            "plays": 14,
+            "cover": "https://img.radioparadise.com/covers/l/7582.jpg",
+            "year": 2014,
+            "song_id": 43827,
+            "album_id": "7582",
+            "created_at": "2026-05-04"
           }
         ],
         "artists": [
           {
             "rank": 1,
             "name": "U2",
-            "plays": 174,
+            "plays": 172,
             "cover": "https://img.radioparadise.com/covers/l/27080.jpg"
           },
           {
             "rank": 2,
             "name": "Neil Young",
-            "plays": 166,
+            "plays": 165,
             "cover": "https://img.radioparadise.com/covers/l/10242.jpg"
           },
           {
@@ -1365,7 +1365,7 @@
           {
             "rank": 7,
             "name": "The Rolling Stones",
-            "plays": 139,
+            "plays": 138,
             "cover": "https://img.radioparadise.com/covers/l/12425.jpg"
           },
           {
@@ -1377,19 +1377,19 @@
           {
             "rank": 9,
             "name": "David Bowie",
-            "plays": 134,
+            "plays": 133,
             "cover": "https://img.radioparadise.com/covers/l/10552.jpg"
           },
           {
             "rank": 10,
             "name": "The Black Keys",
-            "plays": 128,
+            "plays": 126,
             "cover": "https://img.radioparadise.com/covers/l/18353.jpg"
           },
           {
             "rank": 11,
             "name": "Arctic Monkeys",
-            "plays": 126,
+            "plays": 125,
             "cover": "https://img.radioparadise.com/covers/l/26905.jpg"
           },
           {
@@ -1401,32 +1401,32 @@
           {
             "rank": 13,
             "name": "Willie Nelson",
-            "plays": 120,
+            "plays": 119,
             "cover": "https://img.radioparadise.com/covers/l/9839.jpg"
           },
           {
             "rank": 14,
             "name": "Emmylou Harris",
-            "plays": 119,
+            "plays": 118,
             "cover": "https://img.radioparadise.com/covers/l/10376.jpg"
           },
           {
             "rank": 15,
             "name": "Red Hot Chili Peppers",
-            "plays": 113,
+            "plays": 112,
             "cover": "https://img.radioparadise.com/covers/l/18591.jpg"
           },
           {
             "rank": 16,
-            "name": "Van Morrison",
-            "plays": 110,
-            "cover": "https://img.radioparadise.com/covers/l/9327.jpg"
-          },
-          {
-            "rank": 17,
             "name": "Fleetwood Mac",
             "plays": 110,
             "cover": "https://img.radioparadise.com/covers/l/8652.jpg"
+          },
+          {
+            "rank": 17,
+            "name": "Van Morrison",
+            "plays": 109,
+            "cover": "https://img.radioparadise.com/covers/l/9327.jpg"
           },
           {
             "rank": 18,
@@ -1492,7 +1492,7 @@
             "rank": 5,
             "name": "Black Holes And Revelations",
             "sub": "Muse",
-            "plays": 46,
+            "plays": 45,
             "cover": "https://img.radioparadise.com/covers/l/13158.jpg",
             "year": 2006,
             "album_id": "13158",
@@ -1510,16 +1510,6 @@
           },
           {
             "rank": 7,
-            "name": "Achtung Baby",
-            "sub": "U2",
-            "plays": 42,
-            "cover": "https://img.radioparadise.com/covers/l/6897.jpg",
-            "year": 1991,
-            "album_id": "6897",
-            "created_at": "2026-05-04"
-          },
-          {
-            "rank": 8,
             "name": "Manara",
             "sub": "Alsarah \u0026 The Nubatones",
             "plays": 42,
@@ -1529,13 +1519,23 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "name": "This Year’s Model",
             "sub": "Elvis Costello",
             "plays": 42,
             "cover": "https://img.radioparadise.com/covers/l/8090.jpg",
             "year": 1978,
             "album_id": "8090",
+            "created_at": "2026-05-04"
+          },
+          {
+            "rank": 9,
+            "name": "Achtung Baby",
+            "sub": "U2",
+            "plays": 41,
+            "cover": "https://img.radioparadise.com/covers/l/6897.jpg",
+            "year": 1991,
+            "album_id": "6897",
             "created_at": "2026-05-04"
           },
           {
@@ -1600,22 +1600,22 @@
           },
           {
             "rank": 16,
-            "name": "Lost in the Dream",
-            "sub": "The War on Drugs",
-            "plays": 38,
-            "cover": "https://img.radioparadise.com/covers/l/7582.jpg",
-            "year": 2014,
-            "album_id": "7582",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 17,
             "name": "American Beauty",
             "sub": "Grateful Dead",
             "plays": 37,
             "cover": "https://img.radioparadise.com/covers/l/9653.jpg",
             "year": 1970,
             "album_id": "9653",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 17,
+            "name": "Lost in the Dream",
+            "sub": "The War on Drugs",
+            "plays": 37,
+            "cover": "https://img.radioparadise.com/covers/l/7582.jpg",
+            "year": 2014,
+            "album_id": "7582",
             "created_at": "2026-05-01"
           },
           {
@@ -1630,16 +1630,6 @@
           },
           {
             "rank": 19,
-            "name": "Mardi Gras",
-            "sub": "Creedence Clearwater Revival",
-            "plays": 36,
-            "cover": "https://img.radioparadise.com/covers/l/7489.jpg",
-            "year": 1969,
-            "album_id": "7489",
-            "created_at": "2026-05-04"
-          },
-          {
-            "rank": 20,
             "name": "Physical Graffiti",
             "sub": "Led Zeppelin",
             "plays": 36,
@@ -1647,6 +1637,16 @@
             "year": 1975,
             "album_id": "8399",
             "created_at": "2026-05-01"
+          },
+          {
+            "rank": 20,
+            "name": "Wish You Were Here",
+            "sub": "Pink Floyd",
+            "plays": 36,
+            "cover": "https://img.radioparadise.com/covers/l/9815.jpg",
+            "year": 1971,
+            "album_id": "9815",
+            "created_at": "2026-05-04"
           }
         ],
         "new_songs": [
@@ -1773,28 +1773,6 @@
           },
           {
             "rank": 12,
-            "name": "Bad Habits",
-            "sub": "American Aquarium",
-            "plays": 5,
-            "cover": "https://img.radioparadise.com/covers/l/29480.jpg",
-            "year": 2026,
-            "song_id": 65566,
-            "album_id": "29480",
-            "created_at": "2026-07-07"
-          },
-          {
-            "rank": 13,
-            "name": "Can't Stand Still",
-            "sub": "Margo Price",
-            "plays": 5,
-            "cover": "https://img.radioparadise.com/covers/l/29592.jpg",
-            "year": 2026,
-            "song_id": 65706,
-            "album_id": "29592",
-            "created_at": "2026-07-07"
-          },
-          {
-            "rank": 14,
             "name": "Glendale Train ",
             "sub": "AJ Lee \u0026 Blue Summit",
             "plays": 5,
@@ -1805,7 +1783,7 @@
             "created_at": "2026-07-08"
           },
           {
-            "rank": 15,
+            "rank": 13,
             "name": "See Out Loud",
             "sub": "Interpol",
             "plays": 5,
@@ -1816,7 +1794,7 @@
             "created_at": "2026-07-09"
           },
           {
-            "rank": 16,
+            "rank": 14,
             "name": "Where's my Dini?",
             "sub": "Mannequin Pussy",
             "plays": 5,
@@ -1827,7 +1805,7 @@
             "created_at": "2026-07-11"
           },
           {
-            "rank": 17,
+            "rank": 15,
             "name": "Loud Bark",
             "sub": "Mannequin Pussy",
             "plays": 5,
@@ -1838,7 +1816,7 @@
             "created_at": "2026-07-11"
           },
           {
-            "rank": 18,
+            "rank": 16,
             "name": "Silver Promise",
             "sub": "Presley Haile",
             "plays": 5,
@@ -1849,7 +1827,7 @@
             "created_at": "2026-07-17"
           },
           {
-            "rank": 19,
+            "rank": 17,
             "name": "A Little Louisiana",
             "sub": "Jesse Winchester",
             "plays": 4,
@@ -1860,7 +1838,7 @@
             "created_at": "2026-07-08"
           },
           {
-            "rank": 20,
+            "rank": 18,
             "name": "Cleaning Windows",
             "sub": "Barrence Whitfield and Tom Russell",
             "plays": 4,
@@ -1869,6 +1847,28 @@
             "song_id": 53663,
             "album_id": "23542",
             "created_at": "2026-07-09"
+          },
+          {
+            "rank": 19,
+            "name": "Song for You",
+            "sub": "Outlaws",
+            "plays": 4,
+            "cover": "https://img.radioparadise.com/covers/l/28490.jpg",
+            "year": 1993,
+            "song_id": 63805,
+            "album_id": "28490",
+            "created_at": "2026-07-18"
+          },
+          {
+            "rank": 20,
+            "name": "Drunken Angel",
+            "sub": "Lucinda Williams",
+            "plays": 4,
+            "cover": "https://img.radioparadise.com/covers/l/10440.jpg",
+            "year": 1998,
+            "song_id": 65196,
+            "album_id": "10440",
+            "created_at": "2026-07-16"
           }
         ],
         "new_artists": [
@@ -2146,16 +2146,6 @@
           },
           {
             "rank": 16,
-            "name": "Accentuate the Positive",
-            "sub": "Van Morrison",
-            "plays": 5,
-            "cover": "https://img.radioparadise.com/covers/l/21027.jpg",
-            "year": 2023,
-            "album_id": "21027",
-            "created_at": "2026-07-07"
-          },
-          {
-            "rank": 17,
             "name": "Cover To Cover",
             "sub": "AJ Lee \u0026 Blue Summit",
             "plays": 5,
@@ -2165,17 +2155,7 @@
             "created_at": "2026-07-08"
           },
           {
-            "rank": 18,
-            "name": "Days Of Unrest",
-            "sub": "Margo Price",
-            "plays": 5,
-            "cover": "https://img.radioparadise.com/covers/l/29592.jpg",
-            "year": 2026,
-            "album_id": "29592",
-            "created_at": "2026-07-07"
-          },
-          {
-            "rank": 19,
+            "rank": 17,
             "name": "Elite Hotel",
             "sub": "Emmylou Harris",
             "plays": 5,
@@ -2185,13 +2165,33 @@
             "created_at": "2026-07-08"
           },
           {
-            "rank": 20,
+            "rank": 18,
             "name": "Heaven Help the Child",
             "sub": "Mickey Newberry",
             "plays": 5,
             "cover": "https://img.radioparadise.com/covers/l/29861.jpg",
             "year": 1973,
             "album_id": "29861",
+            "created_at": "2026-07-17"
+          },
+          {
+            "rank": 19,
+            "name": "I Got Heaven",
+            "sub": "Mannequin Pussy",
+            "plays": 5,
+            "cover": "https://img.radioparadise.com/covers/l/29742.jpg",
+            "year": 2024,
+            "album_id": "29742",
+            "created_at": "2026-07-11"
+          },
+          {
+            "rank": 20,
+            "name": "Silver Promise",
+            "sub": "Presley Haile",
+            "plays": 5,
+            "cover": "https://img.radioparadise.com/covers/l/29909.jpg",
+            "year": 2026,
+            "album_id": "29909",
             "created_at": "2026-07-17"
           }
         ]
@@ -7104,17 +7104,6 @@
           },
           {
             "rank": 10,
-            "name": "This Must Be the Place",
-            "sub": "Shawn Colvin",
-            "plays": 9,
-            "cover": "https://img.radioparadise.com/covers/l/12357.jpg",
-            "year": 2009,
-            "song_id": 41309,
-            "album_id": "12357",
-            "created_at": "2026-05-07"
-          },
-          {
-            "rank": 11,
             "name": "Sail On Sailor",
             "sub": "The Beach Boys",
             "plays": 9,
@@ -7125,7 +7114,7 @@
             "created_at": "2026-05-09"
           },
           {
-            "rank": 12,
+            "rank": 11,
             "name": "Is It Like Today",
             "sub": "Eliza Gilkyson",
             "plays": 9,
@@ -7136,7 +7125,7 @@
             "created_at": "2026-05-06"
           },
           {
-            "rank": 13,
+            "rank": 12,
             "name": "I’ll Take You There",
             "sub": "The Staple Singers",
             "plays": 9,
@@ -7147,7 +7136,7 @@
             "created_at": "2026-05-08"
           },
           {
-            "rank": 14,
+            "rank": 13,
             "name": "Half Acre",
             "sub": "Hem",
             "plays": 9,
@@ -7158,7 +7147,7 @@
             "created_at": "2026-05-07"
           },
           {
-            "rank": 15,
+            "rank": 14,
             "name": "Today",
             "sub": "The Innocence Mission",
             "plays": 9,
@@ -7169,29 +7158,7 @@
             "created_at": "2026-05-08"
           },
           {
-            "rank": 16,
-            "name": "Windfall",
-            "sub": "Son Volt",
-            "plays": 9,
-            "cover": "https://img.radioparadise.com/covers/l/12535.jpg",
-            "year": 1995,
-            "song_id": 2347,
-            "album_id": "12535",
-            "created_at": "2026-05-07"
-          },
-          {
-            "rank": 17,
-            "name": "Hold On",
-            "sub": "Tom Waits",
-            "plays": 9,
-            "cover": "https://img.radioparadise.com/covers/l/6886.jpg",
-            "year": 1999,
-            "song_id": 1178,
-            "album_id": "6886",
-            "created_at": "2026-05-06"
-          },
-          {
-            "rank": 18,
+            "rank": 15,
             "name": "",
             "plays": 8,
             "cover": "https://img.radioparadise.com/covers/l/0.jpg",
@@ -7200,7 +7167,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 19,
+            "rank": 16,
             "name": "In a Lake",
             "sub": "Mitski",
             "plays": 8,
@@ -7211,7 +7178,7 @@
             "created_at": "2026-05-06"
           },
           {
-            "rank": 20,
+            "rank": 17,
             "name": "Love Is For Love",
             "sub": "Jeff Tweedy",
             "plays": 8,
@@ -7220,6 +7187,39 @@
             "song_id": 61972,
             "album_id": "27666",
             "created_at": "2026-05-05"
+          },
+          {
+            "rank": 18,
+            "name": "Out in the Dark",
+            "sub": "Jeff Tweedy",
+            "plays": 8,
+            "cover": "https://img.radioparadise.com/covers/l/27666.jpg",
+            "year": 2025,
+            "song_id": 61971,
+            "album_id": "27666",
+            "created_at": "2026-05-06"
+          },
+          {
+            "rank": 19,
+            "name": "Horses",
+            "sub": "Winona Oak",
+            "plays": 8,
+            "cover": "https://img.radioparadise.com/covers/l/26404.jpg",
+            "year": 2026,
+            "song_id": 59787,
+            "album_id": "26404",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 20,
+            "name": "Harvest",
+            "sub": "Mumford \u0026 Sons",
+            "plays": 8,
+            "cover": "https://img.radioparadise.com/covers/l/22598.jpg",
+            "year": 2025,
+            "song_id": 52052,
+            "album_id": "22598",
+            "created_at": "2026-05-08"
           }
         ],
         "artists": [
@@ -7232,7 +7232,7 @@
           {
             "rank": 2,
             "name": "Patty Griffin",
-            "plays": 101,
+            "plays": 100,
             "cover": "https://img.radioparadise.com/covers/l/10003.jpg"
           },
           {
@@ -7262,38 +7262,38 @@
           {
             "rank": 7,
             "name": "Joni Mitchell",
-            "plays": 78,
+            "plays": 77,
             "cover": "https://img.radioparadise.com/covers/l/6943.jpg"
           },
           {
             "rank": 8,
-            "name": "Nick Drake",
-            "plays": 75,
-            "cover": "https://img.radioparadise.com/covers/l/12863.jpg"
-          },
-          {
-            "rank": 9,
             "name": "Natalie Merchant",
             "plays": 75,
             "cover": "https://img.radioparadise.com/covers/l/9305.jpg"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "name": "Van Morrison",
             "plays": 74,
             "cover": "https://img.radioparadise.com/covers/l/9327.jpg"
           },
           {
-            "rank": 11,
-            "name": "Peter Gabriel",
+            "rank": 10,
+            "name": "Nick Drake",
             "plays": 74,
-            "cover": "https://img.radioparadise.com/covers/l/18823.jpg"
+            "cover": "https://img.radioparadise.com/covers/l/12863.jpg"
           },
           {
-            "rank": 12,
+            "rank": 11,
             "name": "Fleetwood Mac",
             "plays": 74,
             "cover": "https://img.radioparadise.com/covers/l/8652.jpg"
+          },
+          {
+            "rank": 12,
+            "name": "Peter Gabriel",
+            "plays": 73,
+            "cover": "https://img.radioparadise.com/covers/l/18823.jpg"
           },
           {
             "rank": 13,
@@ -7309,15 +7309,15 @@
           },
           {
             "rank": 15,
-            "name": "Tom Waits",
-            "plays": 64,
-            "cover": "https://img.radioparadise.com/covers/l/6886.jpg"
-          },
-          {
-            "rank": 16,
             "name": "Bruce Cockburn",
             "plays": 64,
             "cover": "https://img.radioparadise.com/covers/l/9091.jpg"
+          },
+          {
+            "rank": 16,
+            "name": "Tom Waits",
+            "plays": 63,
+            "cover": "https://img.radioparadise.com/covers/l/6886.jpg"
           },
           {
             "rank": 17,
@@ -7333,15 +7333,15 @@
           },
           {
             "rank": 19,
-            "name": "Crowded House",
-            "plays": 61,
-            "cover": "https://img.radioparadise.com/covers/l/11462.jpg"
-          },
-          {
-            "rank": 20,
             "name": "Beth Orton",
             "plays": 61,
             "cover": "https://img.radioparadise.com/covers/l/11004.jpg"
+          },
+          {
+            "rank": 20,
+            "name": "Mazzy Star",
+            "plays": 60,
+            "cover": "https://img.radioparadise.com/covers/l/7713.jpg"
           }
         ],
         "albums": [
@@ -7357,16 +7357,6 @@
           },
           {
             "rank": 2,
-            "name": "Break In the Clouds",
-            "sub": "Elephant Revival",
-            "plays": 32,
-            "cover": "https://img.radioparadise.com/covers/l/12957.jpg",
-            "year": 2010,
-            "album_id": "12957",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 3,
             "name": "Central Reservation",
             "sub": "Beth Orton",
             "plays": 32,
@@ -7376,7 +7366,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "name": "New Beginning",
             "sub": "Tracy Chapman",
             "plays": 32,
@@ -7384,6 +7374,16 @@
             "year": 1995,
             "album_id": "8829",
             "created_at": "2026-05-04"
+          },
+          {
+            "rank": 4,
+            "name": "Break In the Clouds",
+            "sub": "Elephant Revival",
+            "plays": 31,
+            "cover": "https://img.radioparadise.com/covers/l/12957.jpg",
+            "year": 2010,
+            "album_id": "12957",
+            "created_at": "2026-05-01"
           },
           {
             "rank": 5,
@@ -9457,17 +9457,6 @@
           },
           {
             "rank": 6,
-            "name": "The End",
-            "sub": "Mammoth",
-            "plays": 16,
-            "cover": "https://img.radioparadise.com/covers/l/25454.jpg",
-            "year": 2025,
-            "song_id": 58130,
-            "album_id": "25454",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 7,
             "name": "Catch These Fists",
             "sub": "Wet Leg",
             "plays": 16,
@@ -9478,7 +9467,7 @@
             "created_at": "2026-05-05"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "name": "Don't Take Me Alive",
             "sub": "Steely Dan",
             "plays": 16,
@@ -9489,7 +9478,7 @@
             "created_at": "2026-05-05"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "name": "Berlin",
             "sub": "Black Rebel Motorcycle Club",
             "plays": 16,
@@ -9500,7 +9489,7 @@
             "created_at": "2026-05-04"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "name": "Pacifica",
             "sub": "Appliance",
             "plays": 16,
@@ -9509,6 +9498,17 @@
             "song_id": 31425,
             "album_id": "11415",
             "created_at": "2026-05-04"
+          },
+          {
+            "rank": 10,
+            "name": "The End",
+            "sub": "Mammoth",
+            "plays": 15,
+            "cover": "https://img.radioparadise.com/covers/l/25454.jpg",
+            "year": 2025,
+            "song_id": 58130,
+            "album_id": "25454",
+            "created_at": "2026-05-01"
           },
           {
             "rank": 11,
@@ -9625,19 +9625,19 @@
           {
             "rank": 1,
             "name": "U2",
-            "plays": 149,
+            "plays": 147,
             "cover": "https://img.radioparadise.com/covers/l/27080.jpg"
           },
           {
             "rank": 2,
             "name": "The Black Keys",
-            "plays": 124,
+            "plays": 122,
             "cover": "https://img.radioparadise.com/covers/l/18353.jpg"
           },
           {
             "rank": 3,
             "name": "Arctic Monkeys",
-            "plays": 120,
+            "plays": 119,
             "cover": "https://img.radioparadise.com/covers/l/26905.jpg"
           },
           {
@@ -9649,13 +9649,13 @@
           {
             "rank": 5,
             "name": "Red Hot Chili Peppers",
-            "plays": 110,
+            "plays": 109,
             "cover": "https://img.radioparadise.com/covers/l/18591.jpg"
           },
           {
             "rank": 6,
             "name": "David Bowie",
-            "plays": 110,
+            "plays": 109,
             "cover": "https://img.radioparadise.com/covers/l/10552.jpg"
           },
           {
@@ -9673,7 +9673,7 @@
           {
             "rank": 9,
             "name": "Nine Inch Nails",
-            "plays": 89,
+            "plays": 88,
             "cover": "https://img.radioparadise.com/covers/l/19811.jpg"
           },
           {
@@ -9691,32 +9691,32 @@
           {
             "rank": 12,
             "name": "The Cure",
-            "plays": 84,
+            "plays": 83,
             "cover": "https://img.radioparadise.com/covers/l/7668.jpg"
           },
           {
             "rank": 13,
-            "name": "The Rolling Stones",
-            "plays": 81,
-            "cover": "https://img.radioparadise.com/covers/l/12425.jpg"
-          },
-          {
-            "rank": 14,
             "name": "R.E.M.",
             "plays": 81,
             "cover": "https://img.radioparadise.com/covers/l/9263.jpg"
           },
           {
-            "rank": 15,
-            "name": "Pixies",
-            "plays": 76,
-            "cover": "https://img.radioparadise.com/covers/l/19318.jpg"
+            "rank": 14,
+            "name": "The Rolling Stones",
+            "plays": 80,
+            "cover": "https://img.radioparadise.com/covers/l/12425.jpg"
           },
           {
-            "rank": 16,
+            "rank": 15,
             "name": "Pink Floyd",
             "plays": 76,
             "cover": "https://img.radioparadise.com/covers/l/9821.jpg"
+          },
+          {
+            "rank": 16,
+            "name": "Pixies",
+            "plays": 75,
+            "cover": "https://img.radioparadise.com/covers/l/19318.jpg"
           },
           {
             "rank": 17,
@@ -9727,7 +9727,7 @@
           {
             "rank": 18,
             "name": "Spoon",
-            "plays": 74,
+            "plays": 73,
             "cover": "https://img.radioparadise.com/covers/l/18176.jpg"
           },
           {
@@ -9738,9 +9738,9 @@
           },
           {
             "rank": 20,
-            "name": "Muse",
+            "name": "Ben Harper",
             "plays": 69,
-            "cover": "https://img.radioparadise.com/covers/l/13158.jpg"
+            "cover": "https://img.radioparadise.com/covers/l/8857.jpg"
           }
         ],
         "albums": [
@@ -9748,7 +9748,7 @@
             "rank": 1,
             "name": "Black Holes And Revelations",
             "sub": "Muse",
-            "plays": 45,
+            "plays": 44,
             "cover": "https://img.radioparadise.com/covers/l/13158.jpg",
             "year": 2006,
             "album_id": "13158",
@@ -9786,16 +9786,6 @@
           },
           {
             "rank": 5,
-            "name": "Achtung Baby",
-            "sub": "U2",
-            "plays": 38,
-            "cover": "https://img.radioparadise.com/covers/l/6897.jpg",
-            "year": 1991,
-            "album_id": "6897",
-            "created_at": "2026-05-04"
-          },
-          {
-            "rank": 6,
             "name": "Ensoulment",
             "sub": "The The",
             "plays": 38,
@@ -9805,17 +9795,17 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 7,
-            "name": "AM",
-            "sub": "Arctic Monkeys",
-            "plays": 33,
-            "cover": "https://img.radioparadise.com/covers/l/12744.jpg",
-            "year": 2013,
-            "album_id": "12744",
-            "created_at": "2026-05-01"
+            "rank": 6,
+            "name": "Achtung Baby",
+            "sub": "U2",
+            "plays": 37,
+            "cover": "https://img.radioparadise.com/covers/l/6897.jpg",
+            "year": 1991,
+            "album_id": "6897",
+            "created_at": "2026-05-04"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "name": "Because of The Times",
             "sub": "Kings of Leon",
             "plays": 33,
@@ -9825,7 +9815,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "name": "Bridge Of Sighs",
             "sub": "Robin Trower",
             "plays": 33,
@@ -9835,7 +9825,7 @@
             "created_at": "2026-05-04"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "name": "Californication",
             "sub": "Red Hot Chili Peppers",
             "plays": 33,
@@ -9845,7 +9835,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 11,
+            "rank": 10,
             "name": "Franz Ferdinand",
             "sub": "Franz Ferdinand",
             "plays": 33,
@@ -9855,7 +9845,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 12,
+            "rank": 11,
             "name": "Physical Graffiti",
             "sub": "Led Zeppelin",
             "plays": 33,
@@ -9865,7 +9855,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 13,
+            "rank": 12,
             "name": "Stadium Arcadium",
             "sub": "Red Hot Chili Peppers",
             "plays": 33,
@@ -9875,13 +9865,23 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 14,
+            "rank": 13,
             "name": "A Pound of Feathers",
             "sub": "The Black Crowes",
             "plays": 32,
             "cover": "https://img.radioparadise.com/covers/l/26496.jpg",
             "year": 2026,
             "album_id": "26496",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 14,
+            "name": "AM",
+            "sub": "Arctic Monkeys",
+            "plays": 32,
+            "cover": "https://img.radioparadise.com/covers/l/12744.jpg",
+            "year": 2013,
+            "album_id": "12744",
             "created_at": "2026-05-01"
           },
           {
@@ -12191,17 +12191,6 @@
           },
           {
             "rank": 5,
-            "name": "Parfum de gitane",
-            "sub": "Anouar Brahem",
-            "plays": 8,
-            "cover": "https://img.radioparadise.com/covers/l/28125.jpg",
-            "year": 1991,
-            "song_id": 62849,
-            "album_id": "28125",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 6,
             "name": "Ranjheya Ve",
             "sub": "Zain Zohaib",
             "plays": 8,
@@ -12212,7 +12201,7 @@
             "created_at": "2026-05-06"
           },
           {
-            "rank": 7,
+            "rank": 6,
             "name": "Darwaaza Bezan",
             "sub": "Samir Roashan",
             "plays": 8,
@@ -12223,7 +12212,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "name": "摇篮曲",
             "sub": "旱獭乐队 ",
             "plays": 8,
@@ -12234,18 +12223,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 9,
-            "name": "Sausalito",
-            "sub": "Dave Pike",
-            "plays": 8,
-            "cover": "https://img.radioparadise.com/covers/l/28097.jpg",
-            "year": 2021,
-            "song_id": 62819,
-            "album_id": "28097",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 10,
+            "rank": 8,
             "name": "Batucada",
             "sub": "Sergio Mendes \u0026 Brasil '66",
             "plays": 8,
@@ -12256,7 +12234,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 11,
+            "rank": 9,
             "name": "Ambiance Vikings",
             "sub": "Les vikings de la Guadeloupe",
             "plays": 8,
@@ -12267,7 +12245,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 12,
+            "rank": 10,
             "name": "Gaia Nector",
             "sub": "Masood Ali Khan",
             "plays": 8,
@@ -12278,7 +12256,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 13,
+            "rank": 11,
             "name": "La Tulipe",
             "sub": "Les Gypsies De Petion-Ville",
             "plays": 8,
@@ -12289,7 +12267,7 @@
             "created_at": "2026-05-06"
           },
           {
-            "rank": 14,
+            "rank": 12,
             "name": "La bohème",
             "sub": "Charles Aznavour",
             "plays": 8,
@@ -12300,7 +12278,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 15,
+            "rank": 13,
             "name": "Disco Hi - Life",
             "sub": "Orlando Julius",
             "plays": 8,
@@ -12311,18 +12289,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 16,
-            "name": "Meci Bon Dieu",
-            "sub": "L'Orchestre de la Radio Nationale D'Haiti",
-            "plays": 8,
-            "cover": "https://img.radioparadise.com/covers/l/28070.jpg",
-            "year": 2016,
-            "song_id": 62784,
-            "album_id": "28070",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 17,
+            "rank": 14,
             "name": "La Vie Vieux Negre",
             "sub": "Coupé Cloué et Trio Select",
             "plays": 8,
@@ -12333,18 +12300,7 @@
             "created_at": "2026-05-06"
           },
           {
-            "rank": 18,
-            "name": "Paulette",
-            "sub": "Balla Et Ses Balladins",
-            "plays": 8,
-            "cover": "https://img.radioparadise.com/covers/l/28064.jpg",
-            "year": 1980,
-            "song_id": 62774,
-            "album_id": "28064",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 19,
+            "rank": 15,
             "name": "Law Kona Tyour",
             "sub": "Ahmed Mounib",
             "plays": 8,
@@ -12355,15 +12311,59 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 20,
-            "name": "CHOOQ",
-            "sub": "Oum",
+            "rank": 16,
+            "name": "Que Se Sepa",
+            "sub": "Roberto Roena Y Su Apollo Sound",
             "plays": 8,
-            "cover": "https://img.radioparadise.com/covers/l/27409.jpg",
-            "year": 2026,
-            "song_id": 61586,
-            "album_id": "27409",
+            "cover": "https://img.radioparadise.com/covers/l/27404.jpg",
+            "year": 1970,
+            "song_id": 61580,
+            "album_id": "27404",
             "created_at": "2026-05-01"
+          },
+          {
+            "rank": 17,
+            "name": "Enkèn Yèlélèbesh",
+            "sub": "Akalé Wubé",
+            "plays": 8,
+            "cover": "https://img.radioparadise.com/covers/l/27051.jpg",
+            "year": 2016,
+            "song_id": 60837,
+            "album_id": "27051",
+            "created_at": "2026-05-06"
+          },
+          {
+            "rank": 18,
+            "name": "Soutouro",
+            "sub": "Ablaye Cissoko",
+            "plays": 8,
+            "cover": "https://img.radioparadise.com/covers/l/27037.jpg",
+            "year": 2015,
+            "song_id": 60820,
+            "album_id": "27037",
+            "created_at": "2026-05-06"
+          },
+          {
+            "rank": 19,
+            "name": "Last Chance",
+            "sub": "The Spy From Cairo",
+            "plays": 8,
+            "cover": "https://img.radioparadise.com/covers/l/21108.jpg",
+            "year": 2017,
+            "song_id": 60815,
+            "album_id": "21108",
+            "created_at": "2026-05-06"
+          },
+          {
+            "rank": 20,
+            "name": "Berimbau",
+            "sub": "Astrud Gilberto",
+            "plays": 8,
+            "cover": "https://img.radioparadise.com/covers/l/27024.jpg",
+            "year": 1994,
+            "song_id": 60803,
+            "album_id": "27024",
+            "created_at": "2026-05-06"
           }
         ],
         "artists": [
@@ -12382,13 +12382,13 @@
           {
             "rank": 3,
             "name": "Thievery Corporation",
-            "plays": 82,
+            "plays": 81,
             "cover": "https://img.radioparadise.com/covers/l/7822.jpg"
           },
           {
             "rank": 4,
             "name": "Ebo Taylor",
-            "plays": 63,
+            "plays": 62,
             "cover": "https://img.radioparadise.com/covers/l/26443.jpg"
           },
           {
@@ -12400,8 +12400,8 @@
           {
             "rank": 6,
             "name": "Bombino",
-            "plays": 55,
-            "cover": "https://img.radioparadise.com/covers/l/12561.jpg"
+            "plays": 54,
+            "cover": "https://img.radioparadise.com/covers/l/12560.jpg"
           },
           {
             "rank": 7,
@@ -12411,63 +12411,63 @@
           },
           {
             "rank": 8,
-            "name": "Gipsy Kings",
-            "plays": 50,
-            "cover": "https://img.radioparadise.com/covers/l/8472.jpg"
-          },
-          {
-            "rank": 9,
             "name": "Mayra Andrade",
             "plays": 49,
             "cover": "https://img.radioparadise.com/covers/l/26552.jpg"
           },
           {
-            "rank": 10,
+            "rank": 9,
             "name": "Altın Gün",
             "plays": 49,
             "cover": "https://img.radioparadise.com/covers/l/27766.jpg"
           },
           {
-            "rank": 11,
+            "rank": 10,
             "name": "Lagartijeando",
             "plays": 48,
             "cover": "https://img.radioparadise.com/covers/l/19620.jpg"
           },
           {
-            "rank": 12,
-            "name": "Ezra Collective",
-            "plays": 47,
-            "cover": "https://img.radioparadise.com/covers/l/19704.jpg"
+            "rank": 11,
+            "name": "Gipsy Kings",
+            "plays": 48,
+            "cover": "https://img.radioparadise.com/covers/l/8472.jpg"
           },
           {
-            "rank": 13,
+            "rank": 12,
             "name": "Ali Farka Touré",
             "plays": 47,
             "cover": "https://img.radioparadise.com/covers/l/26574.jpg"
           },
           {
-            "rank": 14,
+            "rank": 13,
             "name": "Orchestra Baobab",
             "plays": 46,
             "cover": "https://img.radioparadise.com/covers/l/26583.jpg"
           },
           {
+            "rank": 14,
+            "name": "Ezra Collective",
+            "plays": 46,
+            "cover": "https://img.radioparadise.com/covers/l/19704.jpg"
+          },
+          {
             "rank": 15,
-            "name": "Toumani Diabate",
-            "plays": 43,
-            "cover": "https://img.radioparadise.com/covers/l/23710.jpg"
-          },
-          {
-            "rank": 16,
-            "name": "Oum",
-            "plays": 43,
-            "cover": "https://img.radioparadise.com/covers/l/27409.jpg"
-          },
-          {
-            "rank": 17,
             "name": "Yasmine Hamdan",
             "plays": 42,
             "cover": "https://img.radioparadise.com/covers/l/19685.jpg"
+          },
+          {
+            "rank": 16,
+            "name": "Toumani Diabate",
+            "plays": 42,
+            "cover": "https://img.radioparadise.com/covers/l/23710.jpg"
+          },
+          {
+            "rank": 17,
+            "name": "Oum",
+            "plays": 42,
+            "cover": "https://img.radioparadise.com/covers/l/18421.jpg"
           },
           {
             "rank": 18,
@@ -12551,22 +12551,22 @@
           },
           {
             "rank": 7,
-            "name": "Nayda!",
-            "sub": "Bab L'Bluz",
-            "plays": 29,
-            "cover": "https://img.radioparadise.com/covers/l/26700.jpg",
-            "year": 2020,
-            "album_id": "26700",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 8,
             "name": "7 caminos",
             "sub": "Lagartijeando",
             "plays": 28,
             "cover": "https://img.radioparadise.com/covers/l/20319.jpg",
             "year": 2025,
             "album_id": "20319",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 8,
+            "name": "Nayda!",
+            "sub": "Bab L'Bluz",
+            "plays": 28,
+            "cover": "https://img.radioparadise.com/covers/l/26700.jpg",
+            "year": 2020,
+            "album_id": "26700",
             "created_at": "2026-05-01"
           },
           {
@@ -14351,7 +14351,7 @@
             "rank": 1,
             "name": "Tension",
             "sub": "Mulatu Astatke",
-            "plays": 6,
+            "plays": 5,
             "cover": "https://img.radioparadise.com/covers/l/21819.jpg",
             "year": 2024,
             "song_id": 50369,
@@ -14595,33 +14595,33 @@
           },
           {
             "rank": 5,
-            "name": "Ill Considered",
-            "plays": 57,
-            "cover": "https://img.radioparadise.com/covers/l/23360.jpg"
-          },
-          {
-            "rank": 6,
             "name": "Ebi Soda",
             "plays": 57,
             "cover": "https://img.radioparadise.com/covers/l/22383.jpg"
           },
           {
-            "rank": 7,
-            "name": "Makaya McCraven",
+            "rank": 6,
+            "name": "Ill Considered",
             "plays": 56,
-            "cover": "https://img.radioparadise.com/covers/l/20850.jpg"
+            "cover": "https://img.radioparadise.com/covers/l/23357.jpg"
           },
           {
-            "rank": 8,
+            "rank": 7,
             "name": "Move 78",
             "plays": 55,
             "cover": "https://img.radioparadise.com/covers/l/25112.jpg"
           },
           {
-            "rank": 9,
+            "rank": 8,
             "name": "Mammal Hands",
             "plays": 55,
             "cover": "https://img.radioparadise.com/covers/l/26608.jpg"
+          },
+          {
+            "rank": 9,
+            "name": "Makaya McCraven",
+            "plays": 55,
+            "cover": "https://img.radioparadise.com/covers/l/20850.jpg"
           },
           {
             "rank": 10,
@@ -14649,33 +14649,33 @@
           },
           {
             "rank": 14,
-            "name": "Shabaka",
-            "plays": 41,
-            "cover": "https://img.radioparadise.com/covers/l/20935.jpg"
-          },
-          {
-            "rank": 15,
             "name": "corto.alto",
             "plays": 40,
             "cover": "https://img.radioparadise.com/covers/l/24440.jpg"
           },
           {
-            "rank": 16,
+            "rank": 15,
             "name": "The Comet Is Coming",
             "plays": 40,
             "cover": "https://img.radioparadise.com/covers/l/22883.jpg"
           },
           {
-            "rank": 17,
+            "rank": 16,
             "name": "Fazer",
             "plays": 40,
             "cover": "https://img.radioparadise.com/covers/l/20391.jpg"
           },
           {
-            "rank": 18,
+            "rank": 17,
             "name": "Yussef Dayes",
             "plays": 39,
             "cover": "https://img.radioparadise.com/covers/l/25926.jpg"
+          },
+          {
+            "rank": 18,
+            "name": "Shabaka",
+            "plays": 39,
+            "cover": "https://img.radioparadise.com/covers/l/20935.jpg"
           },
           {
             "rank": 19,
@@ -14685,9 +14685,9 @@
           },
           {
             "rank": 20,
-            "name": "Sarathy Korwar",
+            "name": "KAU",
             "plays": 33,
-            "cover": "https://img.radioparadise.com/covers/l/23713.jpg"
+            "cover": "https://img.radioparadise.com/covers/l/24258.jpg"
           }
         ],
         "albums": [
@@ -14703,16 +14703,6 @@
           },
           {
             "rank": 2,
-            "name": "Sorry Music Polska",
-            "sub": "Pink Freud",
-            "plays": 17,
-            "cover": "https://img.radioparadise.com/covers/l/24531.jpg",
-            "year": 2003,
-            "album_id": "24531",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 3,
             "name": "Ugh",
             "sub": "Ebi Soda",
             "plays": 17,
@@ -14722,7 +14712,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "name": "Roulette",
             "sub": "Alfa Mist",
             "plays": 16,
@@ -14732,27 +14722,17 @@
             "created_at": "2026-05-04"
           },
           {
-            "rank": 5,
-            "name": "Universal Beings",
-            "sub": "Makaya McCraven",
+            "rank": 4,
+            "name": "Sorry Music Polska",
+            "sub": "Pink Freud",
             "plays": 16,
-            "cover": "https://img.radioparadise.com/covers/l/20745.jpg",
-            "year": 2018,
-            "album_id": "20745",
+            "cover": "https://img.radioparadise.com/covers/l/24531.jpg",
+            "year": 2003,
+            "album_id": "24531",
             "created_at": "2026-05-01"
           },
           {
-            "rank": 6,
-            "name": "Day to Day",
-            "sub": "Sarathy Korwar",
-            "plays": 15,
-            "cover": "https://img.radioparadise.com/covers/l/22988.jpg",
-            "year": 2016,
-            "album_id": "22988",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 7,
+            "rank": 5,
             "name": "Floa",
             "sub": "Mammal Hands",
             "plays": 15,
@@ -14762,7 +14742,7 @@
             "created_at": "2026-05-04"
           },
           {
-            "rank": 8,
+            "rank": 6,
             "name": "Frank Dean and Andrew",
             "sub": "Ebi Soda",
             "plays": 15,
@@ -14772,7 +14752,7 @@
             "created_at": "2026-05-06"
           },
           {
-            "rank": 9,
+            "rank": 7,
             "name": "NRG 4 (Live at Ronnie Scott's)",
             "sub": "Chiminyo",
             "plays": 15,
@@ -14782,7 +14762,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 10,
+            "rank": 8,
             "name": "Plex",
             "sub": "Fazer",
             "plays": 15,
@@ -14792,13 +14772,33 @@
             "created_at": "2026-05-05"
           },
           {
-            "rank": 11,
+            "rank": 9,
             "name": "Reflex",
             "sub": "JSPHYNX",
             "plays": 15,
             "cover": "https://img.radioparadise.com/covers/l/23753.jpg",
             "year": 2023,
             "album_id": "23753",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 10,
+            "name": "Universal Beings",
+            "sub": "Makaya McCraven",
+            "plays": 15,
+            "cover": "https://img.radioparadise.com/covers/l/20745.jpg",
+            "year": 2018,
+            "album_id": "20745",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 11,
+            "name": "Day to Day",
+            "sub": "Sarathy Korwar",
+            "plays": 14,
+            "cover": "https://img.radioparadise.com/covers/l/22988.jpg",
+            "year": 2016,
+            "album_id": "22988",
             "created_at": "2026-05-01"
           },
           {
@@ -16972,17 +16972,6 @@
         "songs": [
           {
             "rank": 1,
-            "name": "Zeta Aquarii",
-            "sub": "Rule 42",
-            "plays": 56,
-            "cover": "https://img.radioparadise.com/covers/l/27325.jpg",
-            "year": 2005,
-            "song_id": 61430,
-            "album_id": "27325",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 2,
             "name": "Tempel 1",
             "sub": "Rule 42",
             "plays": 56,
@@ -16993,7 +16982,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 3,
+            "rank": 2,
             "name": "SN 1006",
             "sub": "Rule 42",
             "plays": 56,
@@ -17004,7 +16993,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 4,
+            "rank": 3,
             "name": "Laniakea Supercluster",
             "sub": "Rule 42",
             "plays": 56,
@@ -17015,7 +17004,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 5,
+            "rank": 4,
             "name": "LBQS 1429-008",
             "sub": "Rule 42",
             "plays": 56,
@@ -17026,18 +17015,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 6,
-            "name": "Gliese 876",
-            "sub": "Rule 42",
-            "plays": 56,
-            "cover": "https://img.radioparadise.com/covers/l/27325.jpg",
-            "year": 2005,
-            "song_id": 61423,
-            "album_id": "27325",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 7,
+            "rank": 5,
             "name": "Gamma Cephai A b",
             "sub": "Rule 42",
             "plays": 56,
@@ -17048,7 +17026,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 8,
+            "rank": 6,
             "name": "Caldwell 69",
             "sub": "Rule 42",
             "plays": 56,
@@ -17059,7 +17037,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 9,
+            "rank": 7,
             "name": "Al Gieba",
             "sub": "Rule 42",
             "plays": 56,
@@ -17070,18 +17048,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 10,
-            "name": "XTE J1118+480",
-            "sub": "Rule 42",
-            "plays": 56,
-            "cover": "https://img.radioparadise.com/covers/l/19335.jpg",
-            "year": 2024,
-            "song_id": 61418,
-            "album_id": "19335",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 11,
+            "rank": 8,
             "name": "WISE 1800+0134",
             "sub": "Rule 42",
             "plays": 56,
@@ -17092,18 +17059,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 12,
-            "name": "SN 2004dj",
-            "sub": "Rule 42",
-            "plays": 56,
-            "cover": "https://img.radioparadise.com/covers/l/19335.jpg",
-            "year": 2024,
-            "song_id": 61415,
-            "album_id": "19335",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 13,
+            "rank": 9,
             "name": "Messier 60",
             "sub": "Rule 42",
             "plays": 56,
@@ -17114,7 +17070,7 @@
             "created_at": "2026-05-05"
           },
           {
-            "rank": 14,
+            "rank": 10,
             "name": "King Ghidorah Supercluster",
             "sub": "Rule 42",
             "plays": 56,
@@ -17125,7 +17081,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 15,
+            "rank": 11,
             "name": "CfA2 Great Wall",
             "sub": "Rule 42",
             "plays": 56,
@@ -17136,7 +17092,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 16,
+            "rank": 12,
             "name": "C/1951 G1",
             "sub": "Rule 42",
             "plays": 56,
@@ -17147,29 +17103,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 17,
-            "name": "Bahcall \u0026 Soneiro 1982 void",
-            "sub": "Rule 42",
-            "plays": 56,
-            "cover": "https://img.radioparadise.com/covers/l/19354.jpg",
-            "year": 2013,
-            "song_id": 61408,
-            "album_id": "19354",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 18,
-            "name": "41 G. Arae",
-            "sub": "Rule 42",
-            "plays": 56,
-            "cover": "https://img.radioparadise.com/covers/l/19344.jpg",
-            "year": 2024,
-            "song_id": 61406,
-            "album_id": "19344",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 19,
+            "rank": 13,
             "name": "136472 Makemake",
             "sub": "Rule 42",
             "plays": 56,
@@ -17180,14 +17114,74 @@
             "created_at": "2026-05-05"
           },
           {
-            "rank": 20,
-            "name": "1036 Ganymed",
+            "rank": 14,
+            "name": "X/595 A1",
             "sub": "Rule 42",
             "plays": 56,
-            "cover": "https://img.radioparadise.com/covers/l/19334.jpg",
+            "cover": "https://img.radioparadise.com/covers/l/19335.jpg",
             "year": 2024,
-            "song_id": 61400,
-            "album_id": "19334",
+            "song_id": 61399,
+            "album_id": "19335",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 15,
+            "name": "Huge-LQG",
+            "sub": "Rule 42",
+            "plays": 56,
+            "cover": "https://img.radioparadise.com/covers/l/19352.jpg",
+            "song_id": 46371,
+            "album_id": "19352",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 16,
+            "name": "Earendel",
+            "sub": "Rule 42",
+            "plays": 56,
+            "cover": "https://img.radioparadise.com/covers/l/19351.jpg",
+            "song_id": 46370,
+            "album_id": "19351",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 17,
+            "name": "1566 Icarus",
+            "sub": "Rule 42",
+            "plays": 56,
+            "cover": "https://img.radioparadise.com/covers/l/19353.jpg",
+            "song_id": 46175,
+            "album_id": "19353",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 18,
+            "name": "PSR J1719−1438 b",
+            "sub": "Rule 42",
+            "plays": 56,
+            "cover": "https://img.radioparadise.com/covers/l/19350.jpg",
+            "song_id": 46171,
+            "album_id": "19350",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 19,
+            "name": "Abell 39",
+            "sub": "Rule 42",
+            "plays": 56,
+            "cover": "https://img.radioparadise.com/covers/l/19350.jpg",
+            "song_id": 46169,
+            "album_id": "19350",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 20,
+            "name": "GJ 3801",
+            "sub": "Rule 42",
+            "plays": 56,
+            "cover": "https://img.radioparadise.com/covers/l/19346.jpg",
+            "song_id": 46165,
+            "album_id": "19346",
             "created_at": "2026-05-01"
           }
         ],
@@ -17195,33 +17189,13 @@
           {
             "rank": 1,
             "name": "Rule 42",
-            "plays": 2899,
-            "cover": "https://img.radioparadise.com/covers/l/27325.jpg"
+            "plays": 2884,
+            "cover": "https://img.radioparadise.com/covers/l/27324.jpg"
           }
         ],
         "albums": [
           {
             "rank": 1,
-            "name": "Ambient Explorations 01",
-            "sub": "Rule 42",
-            "plays": 224,
-            "cover": "https://img.radioparadise.com/covers/l/19335.jpg",
-            "year": 2024,
-            "album_id": "19335",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 2,
-            "name": "Ambient Explorations 04",
-            "sub": "Rule 42",
-            "plays": 224,
-            "cover": "https://img.radioparadise.com/covers/l/19334.jpg",
-            "year": 2024,
-            "album_id": "19334",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 3,
             "name": "Ambient Explorations 09",
             "sub": "Rule 42",
             "plays": 223,
@@ -17231,65 +17205,45 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 4,
-            "name": "Ambient Explorations 03",
+            "rank": 2,
+            "name": "Ambient Explorations 01",
             "sub": "Rule 42",
-            "plays": 168,
-            "cover": "https://img.radioparadise.com/covers/l/19344.jpg",
+            "plays": 222,
+            "cover": "https://img.radioparadise.com/covers/l/19335.jpg",
             "year": 2024,
-            "album_id": "19344",
+            "album_id": "19335",
             "created_at": "2026-05-01"
           },
           {
-            "rank": 5,
+            "rank": 3,
+            "name": "Ambient Explorations 04",
+            "sub": "Rule 42",
+            "plays": 222,
+            "cover": "https://img.radioparadise.com/covers/l/19334.jpg",
+            "year": 2024,
+            "album_id": "19334",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 4,
             "name": "Ambient Explorations 05",
             "sub": "Rule 42",
-            "plays": 168,
+            "plays": 167,
             "cover": "https://img.radioparadise.com/covers/l/19346.jpg",
             "album_id": "19346",
             "created_at": "2026-05-01"
           },
           {
-            "rank": 6,
+            "rank": 5,
             "name": "Ambient Explorations 07",
             "sub": "Rule 42",
-            "plays": 168,
+            "plays": 167,
             "cover": "https://img.radioparadise.com/covers/l/19350.jpg",
             "album_id": "19350",
             "created_at": "2026-05-01"
           },
           {
-            "rank": 7,
-            "name": "Ambient Explorations 15",
-            "sub": "Rule 42",
-            "plays": 168,
-            "cover": "https://img.radioparadise.com/covers/l/27325.jpg",
-            "year": 2005,
-            "album_id": "27325",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 8,
-            "name": "Ambient Explorations 06",
-            "sub": "Rule 42",
-            "plays": 167,
-            "cover": "https://img.radioparadise.com/covers/l/19349.jpg",
-            "year": 2024,
-            "album_id": "19349",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 9,
-            "name": "Ambient Explorations 10",
-            "sub": "Rule 42",
-            "plays": 167,
-            "cover": "https://img.radioparadise.com/covers/l/19354.jpg",
-            "year": 2013,
-            "album_id": "19354",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 10,
+            "rank": 6,
             "name": "Ambient Explorations 11",
             "sub": "Rule 42",
             "plays": 167,
@@ -17299,16 +17253,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 11,
-            "name": "Ambient Explorations 12",
-            "sub": "Rule 42",
-            "plays": 167,
-            "cover": "https://img.radioparadise.com/covers/l/19352.jpg",
-            "album_id": "19352",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 12,
+            "rank": 7,
             "name": "Ambient Explorations 02",
             "sub": "Rule 42",
             "plays": 166,
@@ -17318,12 +17263,61 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 13,
+            "rank": 8,
+            "name": "Ambient Explorations 10",
+            "sub": "Rule 42",
+            "plays": 166,
+            "cover": "https://img.radioparadise.com/covers/l/19354.jpg",
+            "year": 2013,
+            "album_id": "19354",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 9,
+            "name": "Ambient Explorations 12",
+            "sub": "Rule 42",
+            "plays": 166,
+            "cover": "https://img.radioparadise.com/covers/l/19352.jpg",
+            "album_id": "19352",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 10,
             "name": "Ambient Explorations 13",
             "sub": "Rule 42",
             "plays": 166,
             "cover": "https://img.radioparadise.com/covers/l/19351.jpg",
             "album_id": "19351",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 11,
+            "name": "Ambient Explorations 15",
+            "sub": "Rule 42",
+            "plays": 166,
+            "cover": "https://img.radioparadise.com/covers/l/27325.jpg",
+            "year": 2005,
+            "album_id": "27325",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 12,
+            "name": "Ambient Explorations 03",
+            "sub": "Rule 42",
+            "plays": 165,
+            "cover": "https://img.radioparadise.com/covers/l/19344.jpg",
+            "year": 2024,
+            "album_id": "19344",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 13,
+            "name": "Ambient Explorations 06",
+            "sub": "Rule 42",
+            "plays": 165,
+            "cover": "https://img.radioparadise.com/covers/l/19349.jpg",
+            "year": 2024,
+            "album_id": "19349",
             "created_at": "2026-05-01"
           },
           {
@@ -19468,17 +19462,6 @@
           },
           {
             "rank": 12,
-            "name": "Down To Houston",
-            "sub": "Duane Betts",
-            "plays": 7,
-            "cover": "https://img.radioparadise.com/covers/l/27656.jpg",
-            "year": 2026,
-            "song_id": 61952,
-            "album_id": "27656",
-            "created_at": "2026-05-10"
-          },
-          {
-            "rank": 13,
             "name": "Freedom Speaks",
             "sub": "Lucinda Williams",
             "plays": 7,
@@ -19489,7 +19472,7 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 14,
+            "rank": 13,
             "name": "600 Degrees",
             "sub": "Sam Salmon",
             "plays": 7,
@@ -19500,7 +19483,7 @@
             "created_at": "2026-05-07"
           },
           {
-            "rank": 15,
+            "rank": 14,
             "name": "Rose of Cimarron",
             "sub": "Emmylou Harris",
             "plays": 7,
@@ -19511,18 +19494,7 @@
             "created_at": "2026-05-09"
           },
           {
-            "rank": 16,
-            "name": "Terlingua Chili Queen",
-            "sub": "Slaid Cleaves",
-            "plays": 7,
-            "cover": "https://img.radioparadise.com/covers/l/21148.jpg",
-            "year": 2023,
-            "song_id": 48926,
-            "album_id": "21148",
-            "created_at": "2026-05-08"
-          },
-          {
-            "rank": 17,
+            "rank": 15,
             "name": "Material Witness",
             "sub": "William Matheny",
             "plays": 6,
@@ -19533,7 +19505,7 @@
             "created_at": "2026-07-11"
           },
           {
-            "rank": 18,
+            "rank": 16,
             "name": "If I Were A River",
             "sub": "William Matheny",
             "plays": 6,
@@ -19544,7 +19516,7 @@
             "created_at": "2026-07-14"
           },
           {
-            "rank": 19,
+            "rank": 17,
             "name": "Ringing Hollow",
             "sub": "The Rolling Stones",
             "plays": 6,
@@ -19555,7 +19527,7 @@
             "created_at": "2026-07-11"
           },
           {
-            "rank": 20,
+            "rank": 18,
             "name": "Tear My Stillhouse Down",
             "sub": "AJ Lee \u0026 Blue Summit",
             "plays": 6,
@@ -19564,13 +19536,35 @@
             "song_id": 65735,
             "album_id": "29620",
             "created_at": "2026-07-08"
+          },
+          {
+            "rank": 19,
+            "name": "The Thing",
+            "sub": "Pokey LaFarge",
+            "plays": 6,
+            "cover": "https://img.radioparadise.com/covers/l/29567.jpg",
+            "year": 2026,
+            "song_id": 65676,
+            "album_id": "29567",
+            "created_at": "2026-07-03"
+          },
+          {
+            "rank": 20,
+            "name": "Great American Novel #2",
+            "sub": "Danny Golden",
+            "plays": 6,
+            "cover": "https://img.radioparadise.com/covers/l/29498.jpg",
+            "year": 2026,
+            "song_id": 65592,
+            "album_id": "29498",
+            "created_at": "2026-06-27"
           }
         ],
         "artists": [
           {
             "rank": 1,
             "name": "Willie Nelson",
-            "plays": 102,
+            "plays": 101,
             "cover": "https://img.radioparadise.com/covers/l/9839.jpg"
           },
           {
@@ -19582,7 +19576,7 @@
           {
             "rank": 3,
             "name": "Jerry Jeff Walker",
-            "plays": 80,
+            "plays": 79,
             "cover": "https://img.radioparadise.com/covers/l/29005.jpg"
           },
           {
@@ -19617,33 +19611,33 @@
           },
           {
             "rank": 9,
-            "name": "Charley Crockett",
-            "plays": 59,
-            "cover": "https://img.radioparadise.com/covers/l/29584.jpg"
-          },
-          {
-            "rank": 10,
             "name": "Railroad Earth",
             "plays": 58,
             "cover": "https://img.radioparadise.com/covers/l/28487.jpg"
           },
           {
+            "rank": 10,
+            "name": "Charley Crockett",
+            "plays": 58,
+            "cover": "https://img.radioparadise.com/covers/l/29584.jpg"
+          },
+          {
             "rank": 11,
             "name": "Joe Ely",
-            "plays": 56,
+            "plays": 55,
             "cover": "https://img.radioparadise.com/covers/l/20304.jpg"
           },
           {
             "rank": 12,
-            "name": "Jack Ingram",
-            "plays": 54,
-            "cover": "https://img.radioparadise.com/covers/l/21631.jpg"
-          },
-          {
-            "rank": 13,
             "name": "John Hartford",
             "plays": 53,
             "cover": "https://img.radioparadise.com/covers/l/21235.jpg"
+          },
+          {
+            "rank": 13,
+            "name": "Jack Ingram",
+            "plays": 53,
+            "cover": "https://img.radioparadise.com/covers/l/21631.jpg"
           },
           {
             "rank": 14,
@@ -19671,21 +19665,21 @@
           },
           {
             "rank": 18,
-            "name": "Jake Vaadeland",
-            "plays": 49,
-            "cover": "https://img.radioparadise.com/covers/l/29414.jpg"
-          },
-          {
-            "rank": 19,
             "name": "Bob Dylan",
             "plays": 49,
             "cover": "https://img.radioparadise.com/covers/l/10272.jpg"
           },
           {
-            "rank": 20,
+            "rank": 19,
             "name": "Steep Canyon Rangers",
             "plays": 48,
             "cover": "https://img.radioparadise.com/covers/l/28924.jpg"
+          },
+          {
+            "rank": 20,
+            "name": "Jake Vaadeland",
+            "plays": 48,
+            "cover": "https://img.radioparadise.com/covers/l/29414.jpg"
           }
         ],
         "albums": [
@@ -19841,16 +19835,6 @@
           },
           {
             "rank": 16,
-            "name": "Together Through the Dark",
-            "sub": "Slaid Cleaves",
-            "plays": 22,
-            "cover": "https://img.radioparadise.com/covers/l/21148.jpg",
-            "year": 2023,
-            "album_id": "21148",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 17,
             "name": "drive-in movie",
             "sub": "Fred Eaglesmith",
             "plays": 22,
@@ -19860,33 +19844,43 @@
             "created_at": "2026-05-01"
           },
           {
-            "rank": 18,
-            "name": "Grateful",
-            "sub": "The Red Clay Strays",
-            "plays": 21,
-            "cover": "https://img.radioparadise.com/covers/l/29029.jpg",
-            "year": 2026,
-            "album_id": "29029",
-            "created_at": "2026-06-05"
-          },
-          {
-            "rank": 19,
-            "name": "Honky Tonk",
-            "sub": "Marley's Ghost",
-            "plays": 21,
-            "cover": "https://img.radioparadise.com/covers/l/24610.jpg",
-            "year": 2025,
-            "album_id": "24610",
-            "created_at": "2026-05-01"
-          },
-          {
-            "rank": 20,
+            "rank": 17,
             "name": "Middle of Nowhere",
             "sub": "Kacey Musgraves",
             "plays": 21,
             "cover": "https://img.radioparadise.com/covers/l/28451.jpg",
             "year": 2026,
             "album_id": "28451",
+            "created_at": "2026-05-04"
+          },
+          {
+            "rank": 18,
+            "name": "Never Ending Train",
+            "sub": "Big House",
+            "plays": 21,
+            "cover": "https://img.radioparadise.com/covers/l/24434.jpg",
+            "year": 2008,
+            "album_id": "24434",
+            "created_at": "2026-05-01"
+          },
+          {
+            "rank": 19,
+            "name": "Rosie",
+            "sub": "Whitney Rose",
+            "plays": 21,
+            "cover": "https://img.radioparadise.com/covers/l/28983.jpg",
+            "year": 2023,
+            "album_id": "28983",
+            "created_at": "2026-05-30"
+          },
+          {
+            "rank": 20,
+            "name": "The Late Great Townes Van Zandt",
+            "sub": "Townes Van Zandt",
+            "plays": 21,
+            "cover": "https://img.radioparadise.com/covers/l/11242.jpg",
+            "year": 1972,
+            "album_id": "11242",
             "created_at": "2026-05-04"
           }
         ],
@@ -19959,28 +19953,6 @@
           },
           {
             "rank": 7,
-            "name": "Can't Stand Still",
-            "sub": "Margo Price",
-            "plays": 5,
-            "cover": "https://img.radioparadise.com/covers/l/29592.jpg",
-            "year": 2026,
-            "song_id": 65706,
-            "album_id": "29592",
-            "created_at": "2026-07-07"
-          },
-          {
-            "rank": 8,
-            "name": "Bad Habits",
-            "sub": "American Aquarium",
-            "plays": 5,
-            "cover": "https://img.radioparadise.com/covers/l/29480.jpg",
-            "year": 2026,
-            "song_id": 65566,
-            "album_id": "29480",
-            "created_at": "2026-07-07"
-          },
-          {
-            "rank": 9,
             "name": "Steppin' Outside (w/  Tyler Childers)",
             "sub": "Cory Branan",
             "plays": 4,
@@ -19991,7 +19963,7 @@
             "created_at": "2026-07-20"
           },
           {
-            "rank": 10,
+            "rank": 8,
             "name": "Find A Way",
             "sub": "Waylon Payne",
             "plays": 4,
@@ -20002,7 +19974,7 @@
             "created_at": "2026-07-20"
           },
           {
-            "rank": 11,
+            "rank": 9,
             "name": "More, More, More",
             "sub": "Kimmi Bitter",
             "plays": 4,
@@ -20013,7 +19985,7 @@
             "created_at": "2026-07-21"
           },
           {
-            "rank": 12,
+            "rank": 10,
             "name": "All Will Be Well",
             "sub": "Sister Sadie",
             "plays": 4,
@@ -20024,7 +19996,7 @@
             "created_at": "2026-07-17"
           },
           {
-            "rank": 13,
+            "rank": 11,
             "name": "Dog or Wolf",
             "sub": "Ray Wylie Hubbard",
             "plays": 4,
@@ -20035,7 +20007,7 @@
             "created_at": "2026-07-10"
           },
           {
-            "rank": 14,
+            "rank": 12,
             "name": "Wanderin'",
             "sub": "Trever M. Keith",
             "plays": 4,
@@ -20046,7 +20018,7 @@
             "created_at": "2026-07-11"
           },
           {
-            "rank": 15,
+            "rank": 13,
             "name": "Many Rivers To Cross",
             "sub": "Tanasi",
             "plays": 4,
@@ -20057,7 +20029,7 @@
             "created_at": "2026-07-11"
           },
           {
-            "rank": 16,
+            "rank": 14,
             "name": "Mahala/Let's Hold On",
             "sub": "Tanasi",
             "plays": 4,
@@ -20068,7 +20040,7 @@
             "created_at": "2026-07-09"
           },
           {
-            "rank": 17,
+            "rank": 15,
             "name": "Lookout Heart",
             "sub": "The Binoculars",
             "plays": 4,
@@ -20079,7 +20051,7 @@
             "created_at": "2026-07-10"
           },
           {
-            "rank": 18,
+            "rank": 16,
             "name": "Wretched Bones",
             "sub": "Trever M. Keith",
             "plays": 4,
@@ -20090,7 +20062,7 @@
             "created_at": "2026-07-08"
           },
           {
-            "rank": 19,
+            "rank": 17,
             "name": "Drunken Angel",
             "sub": "Lucinda Williams",
             "plays": 4,
@@ -20101,7 +20073,7 @@
             "created_at": "2026-07-16"
           },
           {
-            "rank": 20,
+            "rank": 18,
             "name": "Song for You",
             "sub": "Outlaws",
             "plays": 4,
@@ -20110,6 +20082,28 @@
             "song_id": 63805,
             "album_id": "28490",
             "created_at": "2026-07-18"
+          },
+          {
+            "rank": 19,
+            "name": "Cleaning Windows",
+            "sub": "Barrence Whitfield and Tom Russell",
+            "plays": 4,
+            "cover": "https://img.radioparadise.com/covers/l/23542.jpg",
+            "year": 1993,
+            "song_id": 53663,
+            "album_id": "23542",
+            "created_at": "2026-07-09"
+          },
+          {
+            "rank": 20,
+            "name": "A Little Louisiana",
+            "sub": "Jesse Winchester",
+            "plays": 4,
+            "cover": "https://img.radioparadise.com/covers/l/21586.jpg",
+            "year": 2014,
+            "song_id": 49824,
+            "album_id": "21586",
+            "created_at": "2026-07-08"
           }
         ],
         "new_artists": [
@@ -20229,9 +20223,9 @@
           },
           {
             "rank": 20,
-            "name": "Outlaws",
+            "name": "Mary McCaslin",
             "plays": 7,
-            "cover": "https://img.radioparadise.com/covers/l/28490.jpg"
+            "cover": "https://img.radioparadise.com/covers/l/14610.jpg"
           }
         ],
         "new_albums": [
@@ -20327,16 +20321,6 @@
           },
           {
             "rank": 10,
-            "name": "Accentuate the Positive",
-            "sub": "Van Morrison",
-            "plays": 5,
-            "cover": "https://img.radioparadise.com/covers/l/21027.jpg",
-            "year": 2023,
-            "album_id": "21027",
-            "created_at": "2026-07-07"
-          },
-          {
-            "rank": 11,
             "name": "Cover To Cover",
             "sub": "AJ Lee \u0026 Blue Summit",
             "plays": 5,
@@ -20346,17 +20330,7 @@
             "created_at": "2026-07-08"
           },
           {
-            "rank": 12,
-            "name": "Days Of Unrest",
-            "sub": "Margo Price",
-            "plays": 5,
-            "cover": "https://img.radioparadise.com/covers/l/29592.jpg",
-            "year": 2026,
-            "album_id": "29592",
-            "created_at": "2026-07-07"
-          },
-          {
-            "rank": 13,
+            "rank": 11,
             "name": "Elite Hotel",
             "sub": "Emmylou Harris",
             "plays": 5,
@@ -20366,7 +20340,7 @@
             "created_at": "2026-07-08"
           },
           {
-            "rank": 14,
+            "rank": 12,
             "name": "Heaven Help the Child",
             "sub": "Mickey Newberry",
             "plays": 5,
@@ -20376,17 +20350,7 @@
             "created_at": "2026-07-17"
           },
           {
-            "rank": 15,
-            "name": "New Way To Lose",
-            "sub": "American Aquarium",
-            "plays": 5,
-            "cover": "https://img.radioparadise.com/covers/l/29480.jpg",
-            "year": 2026,
-            "album_id": "29480",
-            "created_at": "2026-07-07"
-          },
-          {
-            "rank": 16,
+            "rank": 13,
             "name": "Silver Promise",
             "sub": "Presley Haile",
             "plays": 5,
@@ -20396,7 +20360,7 @@
             "created_at": "2026-07-17"
           },
           {
-            "rank": 17,
+            "rank": 14,
             "name": "The Last Frontier",
             "sub": "Reckless Kelly",
             "plays": 5,
@@ -20406,7 +20370,7 @@
             "created_at": "2026-07-08"
           },
           {
-            "rank": 18,
+            "rank": 15,
             "name": "A Reasonable Amount of Trouble",
             "sub": "Jesse Winchester",
             "plays": 4,
@@ -20416,7 +20380,17 @@
             "created_at": "2026-07-08"
           },
           {
-            "rank": 19,
+            "rank": 16,
+            "name": "Accentuate the Positive",
+            "sub": "Van Morrison",
+            "plays": 4,
+            "cover": "https://img.radioparadise.com/covers/l/21027.jpg",
+            "year": 2023,
+            "album_id": "21027",
+            "created_at": "2026-07-07"
+          },
+          {
+            "rank": 17,
             "name": "All Will Be Well",
             "sub": "Sister Sadie",
             "plays": 4,
@@ -20426,7 +20400,7 @@
             "created_at": "2026-07-17"
           },
           {
-            "rank": 20,
+            "rank": 18,
             "name": "Between Five And Seven",
             "sub": "John Gorka",
             "plays": 4,
@@ -20434,6 +20408,26 @@
             "year": 1996,
             "album_id": "11159",
             "created_at": "2026-07-09"
+          },
+          {
+            "rank": 19,
+            "name": "Car Wheels on a Gravel Road",
+            "sub": "Lucinda Williams",
+            "plays": 4,
+            "cover": "https://img.radioparadise.com/covers/l/10440.jpg",
+            "year": 1998,
+            "album_id": "10440",
+            "created_at": "2026-07-16"
+          },
+          {
+            "rank": 20,
+            "name": "Clovis",
+            "sub": "Charley Crockett",
+            "plays": 4,
+            "cover": "https://img.radioparadise.com/covers/l/29584.jpg",
+            "year": 2026,
+            "album_id": "29584",
+            "created_at": "2026-07-10"
           }
         ]
       },
